@@ -1,0 +1,4 @@
+spring:
+  aop:
+    auto: true
+    proxy-target-class: false #false 使用CGLIB, true使用java的实现
